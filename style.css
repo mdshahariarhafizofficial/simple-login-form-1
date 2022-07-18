@@ -1,0 +1,50 @@
+body{
+    background-color: #17A2B7;
+   
+}
+.up{
+    color: white;
+     
+}
+.up{
+    text-align: center;
+}
+.loginbox{
+    background-color: #EAEAEA;
+      width: 400px;
+    padding: 50px;
+    margin:auto;
+    margin-top: 200px;
+
+    
+}
+.loginbox input{
+    width: 100%;
+    display: block;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    
+}
+.btn{
+    background: #17A2B7;
+    color: white;
+}
+.btn:hover{
+   background-color: #7bf037;
+}
+a{
+    color: #17A2B7;
+    margin: 20px;
+}
+a:hover{
+    color:red;
+    
+}
+.rm{
+   margin: 10px;
+   margin: 10px;
+   margin: 10px;
+   margin: 10px;
+}
